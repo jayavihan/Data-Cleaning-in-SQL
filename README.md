@@ -11,11 +11,17 @@ This project demonstrates dive into SQL for a data cleaning project, focusing on
 
 ## Key Insights
 📈 Importance of Data Cleaning: Data cleaning is crucial for accurate analysis, making this project highly relevant for aspiring data analysts.
+
 🔄 SQL Techniques: The project covers various SQL techniques, such as using substrings and character indexing, enhancing viewers’ SQL skills.
+
 🏡 Real Dataset Usage: Utilizing a real-world dataset, like Nashville housing data, adds practical relevance and engagement to the learning experience.
+
 🔑 Understanding Data Structure: The video teaches viewers how to recognize and manipulate data structures effectively to improve data usability.
+
 ⚙️ Advanced SQL Functions: Introducing concepts like CTEs and window functions offers deeper insights into SQL’s capabilities.
+
 ✅ Iterative Learning: Encouraging viewers to pause and research fosters a deeper understanding of SQL, promoting an iterative learning approach.
+
 🌟 Portfolio Growth: Completing this project equips viewers with a tangible addition to their portfolios, showcasing their data cleaning abilities.
 
 ## Project Structure
